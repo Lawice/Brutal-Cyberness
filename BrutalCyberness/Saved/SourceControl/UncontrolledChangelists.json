@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/Anim/draw_sword_1.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/reiko.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/head_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Hair_Nocap_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Clothe_Removable__Base_color_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Body_Base_color_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/Body_Base_color_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/Clothe_Removable__Base_color_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/Hair_Nocap_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/head_Mat.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Clothe_Removable__Base_color.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Hair_Nocap.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Body_Base_color.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/head.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/reiko_PhysicsAsset.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/reiko_Skeleton.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Clothe_Removable_.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Hair.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/eyes.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Image1.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/EyeBrows_Transparent_.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Face_.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/reiko_Anim.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/model/Body.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/reiko.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/Clothe_Removable__Base_color.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/Body_Base_color.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/head.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/Hair_Nocap.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/reiko_Skeleton.uasset",
+				"C:/Users/icela/Documents/Code/Github/Brutal-Cyberness/BrutalCyberness/Content/Characters/Reiko/reiko_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
